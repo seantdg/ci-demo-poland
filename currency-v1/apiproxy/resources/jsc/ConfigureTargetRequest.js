@@ -1,2 +1,2 @@
 context.setVariable('target.copy.pathsuffix', false);
-context.setVariable('custom', 'blah');
+context.setVariable('favourite-colleague', 'Shak');
